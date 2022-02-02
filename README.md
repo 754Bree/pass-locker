@@ -5,7 +5,7 @@
 
 ## Description
 
- Pass-locker is an a pp that saves passwords.
+ Pass-locker is an app that saves passwords.
 
 ## User Stories
  The user would like to.... :
