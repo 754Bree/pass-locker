@@ -27,7 +27,7 @@
 
 * Open Terminal 
 
-* git clone ``````
+* git clone ```https://github.com/754Bree/pass-locker.git```
 
 * cd Password
 
