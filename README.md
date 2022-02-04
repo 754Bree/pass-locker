@@ -1,11 +1,11 @@
 # Password-Locker
 ## Author
 
- [Briana Odhiambo](https://github.com/754Bree/pass-locker.git)
+ [](https://github.com/754Bree/pass-locker.git)
 
 ## Description
 
- Pass-locker is an app that saves passwords.
+ Pass-locker is an app that saves passwords.Since keying in 
 
 ## User Stories
  The user would like to.... :
