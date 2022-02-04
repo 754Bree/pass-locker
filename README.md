@@ -5,7 +5,7 @@
 
 ## Description
 
- Pass-locker is an a pp that saves passwords.
+ Pass-locker is an app that saves passwords.Since recalling prevous passwords at times can be challanging especially to those with very short-term memories,This app simplifies it all for them.
 
 ## User Stories
  The user would like to.... :
@@ -56,7 +56,6 @@
 ## Technologies Used
 
 * python3.9
-
 
 ## Contact Information 
 Email  me at [brianaodhiambo754@gmail.com]
