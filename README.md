@@ -58,8 +58,6 @@
 * python3.9
 
 
-## Contact Information 
-Email  me at [brianaodhiambo754@gmail.com]
 
 ## License
 * *MIT License:*
