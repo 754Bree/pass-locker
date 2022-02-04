@@ -1,7 +1,7 @@
 # Password-Locker
 ## Author
 
- [](https://github.com/754Bree/pass-locker.git)
+ [Briana Odhiambo](https://github.com/754Bree/pass-locker.git)
 
 ## Description
 
